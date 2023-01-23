@@ -1,0 +1,3 @@
+# Siamese-Network
+
+A Siamese network is a type of neural network architecture that consists of two identical sub-networks, each taking one input. The two sub-networks are connected at the output layer and share the same weights. The output of the Siamese network is a measure of similarity between the two input instances. The network is trained using a contrastive loss function, which minimizes the difference between similar inputs and maximizes the difference between dissimilar inputs. Siamese networks are commonly used in tasks such as image or speech recognition, where the goal is to identify whether two inputs are the same or different.
